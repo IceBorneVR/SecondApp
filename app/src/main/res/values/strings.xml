@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">SecondApp</string>
     <string name="strBtn1">미사일 발사 버튼</string>
+    <string name="strCheck1">발사 전 안전장치 확인</string>
 </resources>
